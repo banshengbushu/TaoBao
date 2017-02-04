@@ -1,0 +1,12 @@
+@charset "utf-8";
+body,div,span,p,i,a,ul,li,h1,h2,h3,img,table,tr,td{
+	margin:0;
+	padding:0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration:none;
+	text-align:center;	
+}

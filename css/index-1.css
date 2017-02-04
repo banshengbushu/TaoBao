@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+/*tophead开始*/
+.top_head{
+	height:35px;
+	background-color: #f5f5f5;
+	z-index:10000;
+	border-bottom:1px solid #eee;
+}
+.top_head a{
+	color:#6c6c6c;
+	font-size:12px;
+	float:left;
+	line-height: 35px;
+	padding-right:15px;
+}
+.top_head a:hover{
+	color:#f40;
+	font-size:12px;
+}
+.top_head .top_head_main{
+	width: 1135px;
+	height:35px;
+	margin:0 auto;
+}
+
+.top_head .head_main_left{
+	float:left;
+	display: block;
+	width: 357px;
+}
+.top_head .head_main_right{
+	float:right;
+	display: block;
+	width: 518px;
+	/*background-color: green;*/
+}
+ a{
+	color:#6c6c6c;
+	font-size:12px;
+	float:right;
+	line-height: 35px;
+	padding-right:15px;
+}
+.top_head .head_main_right a:hover{
+	color:#f40;
+	font-size:12px;
+}
+/*tophead结束*/
+
+/*top main 开始*/
+.top_main{
+	width: 1190px;
+	height:115px;
+	margin:0 auto;
+	margin-top:10px;
+	overflow:hidden;
+	/*background-color: gray;*/
+}
+.top_main .taobao{
+	float:left;
+}
+.top_main .top_main_middle{
+	width:730px;
+	height:87px;
+	margin-top:20px:
+	/*float:left;*/
+	/*background-color: red;*/
+}
+/*top main 结束*/
